@@ -1,0 +1,7 @@
+server:
+  port: 9093
+  servlet:
+    context-path: /config-client
+my:
+  userName: zhangsan3(git_pub)
+  realName: 张三3(git_pub)
